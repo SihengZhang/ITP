@@ -1,0 +1,37 @@
+# ninja log v5
+59	69	1714028581233253000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f59c30c3debecc0
+69	78	1714028581242385000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	aa70b6a0f54b250f
+51	59	1714028581223600000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	93e2753c7777ed93
+0	38	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	5cc865816a9a6bba
+88	101	1714028581264760000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	48df5a945445be00
+78	88	1714028581251677000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9722ce4c6fa2494d
+9	857	1713154804421965000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	d9362fd530e8c518
+0	38	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	5cc865816a9a6bba
+88	101	1714028581264760000	CMakeFiles/glad-populate-complete	48df5a945445be00
+0	9	1713154803574139000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	961e70394be80d1c
+0	9	1713154803574139000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	961e70394be80d1c
+88	101	1714028581264760000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	48df5a945445be00
+38	51	1714028581215009000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	fbb38467c4c27f6e
+9	857	1713154804421965000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	d9362fd530e8c518
+88	101	1714028581264760000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	48df5a945445be00
+51	59	1714028581223600000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	93e2753c7777ed93
+59	69	1714028581233253000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f59c30c3debecc0
+78	88	1714028581251677000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9722ce4c6fa2494d
+38	51	1714028581215009000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	fbb38467c4c27f6e
+69	78	1714028581242385000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	aa70b6a0f54b250f
+0	59	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	5cc865816a9a6bba
+0	59	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	5cc865816a9a6bba
+60	79	1714076057542411000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	fbb38467c4c27f6e
+60	79	1714076057542411000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	fbb38467c4c27f6e
+79	99	1714076057562355000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	93e2753c7777ed93
+79	99	1714076057562355000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	93e2753c7777ed93
+99	120	1714076057583524000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f59c30c3debecc0
+99	120	1714076057583524000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	6f59c30c3debecc0
+120	144	1714076057608026000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	aa70b6a0f54b250f
+120	144	1714076057608026000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	aa70b6a0f54b250f
+144	169	1714076057631424000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9722ce4c6fa2494d
+144	169	1714076057631424000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	9722ce4c6fa2494d
+169	193	1714076057657187000	CMakeFiles/glad-populate-complete	48df5a945445be00
+169	193	1714076057657187000	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	48df5a945445be00
+169	193	1714076057657187000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	48df5a945445be00
+169	193	1714076057657187000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	48df5a945445be00

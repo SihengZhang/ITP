@@ -1,0 +1,14 @@
+# Target labels
+ libigl-populate
+# Source files and their labels
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test.rule
+/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update.rule

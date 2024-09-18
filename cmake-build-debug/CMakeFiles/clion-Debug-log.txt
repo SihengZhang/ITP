@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges" -B "/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug"
+-- Finding/Downloading libigl...
+-- Creating target: igl::core (igl_core)
+-- Third-party: creating target 'Eigen3::Eigen'
+-- Creating target: igl::glfw (igl_glfw)
+-- Third-party: creating target 'glfw::glfw'
+-- Using Cocoa for window creation
+-- Forcing include of libigl module: opengl
+-- Creating target: igl::opengl (igl_opengl)
+-- Third-party: creating target 'glad::glad'
+-- Configuring done (1.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug

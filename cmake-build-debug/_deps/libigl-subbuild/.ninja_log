@@ -1,0 +1,37 @@
+# ninja log v5
+12	2374	1713154797315270000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download	da99c7803ced6dad
+71	83	1714028580785149000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	9293599d5a12b0f
+83	97	1714028580798630000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	74a0e10734be6b73
+41	51	1714028580751955000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	fa5308fe296b904a
+33	41	1714028580743044000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	80733420eb5d895a
+0	12	1713154794953571000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir	740f36f139959f1a
+51	62	1714028580763786000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	8bec6fd6b141497e
+62	71	1714028580773365000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	12757fbc1da8efeb
+51	62	1714028580763786000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	8bec6fd6b141497e
+83	97	1714028580798630000	CMakeFiles/libigl-populate-complete	74a0e10734be6b73
+0	12	1713154794953571000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir	740f36f139959f1a
+0	33	0	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	a1a259e02c7a6d7f
+12	2374	1713154797315270000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download	da99c7803ced6dad
+33	41	1714028580743044000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	80733420eb5d895a
+71	83	1714028580785149000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	9293599d5a12b0f
+83	97	1714028580798630000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete	74a0e10734be6b73
+41	51	1714028580751955000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	fa5308fe296b904a
+0	33	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	a1a259e02c7a6d7f
+83	97	1714028580798630000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	74a0e10734be6b73
+62	71	1714028580773365000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	12757fbc1da8efeb
+0	71	0	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	a1a259e02c7a6d7f
+0	71	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update	a1a259e02c7a6d7f
+71	83	1714076056529327000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	80733420eb5d895a
+71	83	1714076056529327000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch	80733420eb5d895a
+83	99	1714076056545248000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	fa5308fe296b904a
+83	99	1714076056545248000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure	fa5308fe296b904a
+99	129	1714076056572314000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	8bec6fd6b141497e
+99	129	1714076056572314000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build	8bec6fd6b141497e
+129	164	1714076056606883000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	12757fbc1da8efeb
+129	164	1714076056606883000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install	12757fbc1da8efeb
+164	206	1714076056650723000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	9293599d5a12b0f
+164	206	1714076056650723000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test	9293599d5a12b0f
+206	245	1714076056691630000	CMakeFiles/libigl-populate-complete	74a0e10734be6b73
+206	245	1714076056691630000	libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	74a0e10734be6b73
+206	245	1714076056691630000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete	74a0e10734be6b73
+206	245	1714076056691630000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-done	74a0e10734be6b73

@@ -1,0 +1,37 @@
+# ninja log v5
+0	8	1713154800024605000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	bc3e1bcb78ae3af3
+36	45	1714028581050529000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2ab1ba7353bf9127
+83	96	1714028581100850000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9f832aafeeca0ef7
+54	63	1714028581068274000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3f940202da308511
+63	73	1714028581078132000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a48117135834ca09
+46	54	1714028581059498000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	419e5ea8b3b663e3
+8	3419	1713154803435415000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	e4b050386a06325
+83	96	1714028581100850000	CMakeFiles/glfw-populate-complete	9f832aafeeca0ef7
+8	3419	1713154803435415000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	e4b050386a06325
+54	63	1714028581068274000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3f940202da308511
+0	36	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	cd25eb6513cecc0e
+83	96	1714028581100850000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9f832aafeeca0ef7
+83	96	1714028581100850000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9f832aafeeca0ef7
+0	8	1713154800024605000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	bc3e1bcb78ae3af3
+0	36	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	cd25eb6513cecc0e
+46	54	1714028581059498000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	419e5ea8b3b663e3
+36	45	1714028581050529000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2ab1ba7353bf9127
+73	83	1714028581087868000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	63927471d63a8c37
+63	73	1714028581078132000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a48117135834ca09
+73	83	1714028581087868000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	63927471d63a8c37
+0	74	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	cd25eb6513cecc0e
+0	74	0	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	cd25eb6513cecc0e
+74	91	1714076057217152000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2ab1ba7353bf9127
+74	91	1714076057217152000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2ab1ba7353bf9127
+92	121	1714076057246913000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	419e5ea8b3b663e3
+92	121	1714076057246913000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	419e5ea8b3b663e3
+121	138	1714076057263975000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3f940202da308511
+121	138	1714076057263975000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3f940202da308511
+138	158	1714076057283552000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a48117135834ca09
+138	158	1714076057283552000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a48117135834ca09
+158	183	1714076057307188000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	63927471d63a8c37
+158	183	1714076057307188000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	63927471d63a8c37
+183	210	1714076057335248000	CMakeFiles/glfw-populate-complete	9f832aafeeca0ef7
+183	210	1714076057335248000	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9f832aafeeca0ef7
+183	210	1714076057335248000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	9f832aafeeca0ef7
+183	210	1714076057335248000	/Users/sihengzhang/Documents/USC gradute classes/CSCI599-30015D/final/final-project-flip-edges/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9f832aafeeca0ef7
